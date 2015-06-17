@@ -1,0 +1,33 @@
+C:\Projects\SeleniumTestsProject\SeleniumTestsProject\bin\Debug\SeleniumTestsProject.dll
+C:\Projects\SeleniumTestsProject\SeleniumTestsProject\bin\Debug\SeleniumTestsProject.pdb
+C:\Projects\SeleniumTestsProject\SeleniumTestsProject\bin\Debug\nunit.framework.dll
+C:\Projects\SeleniumTestsProject\SeleniumTestsProject\bin\Debug\WebDriver.dll
+C:\Projects\SeleniumTestsProject\SeleniumTestsProject\bin\Debug\WebDriver.Support.dll
+C:\Projects\SeleniumTestsProject\SeleniumTestsProject\bin\Debug\nunit.framework.xml
+C:\Projects\SeleniumTestsProject\SeleniumTestsProject\bin\Debug\WebDriver.xml
+C:\Projects\SeleniumTestsProject\SeleniumTestsProject\bin\Debug\WebDriver.Support.xml
+C:\Projects\SeleniumTestsProject\SeleniumTestsProject\obj\Debug\SeleniumTestsProject.csprojResolveAssemblyReference.cache
+C:\Projects\SeleniumTestsProject\SeleniumTestsProject\obj\Debug\SeleniumTestsProject.dll
+C:\Projects\SeleniumTestsProject\SeleniumTestsProject\obj\Debug\SeleniumTestsProject.pdb
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsProject (1)\SeleniumTestsProject\bin\Debug\SeleniumTestsProject.dll
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsProject (1)\SeleniumTestsProject\bin\Debug\SeleniumTestsProject.pdb
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsProject (1)\SeleniumTestsProject\bin\Debug\nunit.framework.dll
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsProject (1)\SeleniumTestsProject\bin\Debug\WebDriver.dll
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsProject (1)\SeleniumTestsProject\bin\Debug\WebDriver.Support.dll
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsProject (1)\SeleniumTestsProject\bin\Debug\nunit.framework.xml
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsProject (1)\SeleniumTestsProject\bin\Debug\WebDriver.xml
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsProject (1)\SeleniumTestsProject\bin\Debug\WebDriver.Support.xml
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsProject (1)\SeleniumTestsProject\obj\Debug\SeleniumTestsProject.csprojResolveAssemblyReference.cache
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsProject (1)\SeleniumTestsProject\obj\Debug\SeleniumTestsProject.dll
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsProject (1)\SeleniumTestsProject\obj\Debug\SeleniumTestsProject.pdb
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsFramework\SeleniumTestsProject\bin\Debug\SeleniumTestsProject.dll
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsFramework\SeleniumTestsProject\bin\Debug\SeleniumTestsProject.pdb
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsFramework\SeleniumTestsProject\bin\Debug\nunit.framework.dll
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsFramework\SeleniumTestsProject\bin\Debug\WebDriver.dll
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsFramework\SeleniumTestsProject\bin\Debug\WebDriver.Support.dll
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsFramework\SeleniumTestsProject\bin\Debug\nunit.framework.xml
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsFramework\SeleniumTestsProject\bin\Debug\WebDriver.xml
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsFramework\SeleniumTestsProject\bin\Debug\WebDriver.Support.xml
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsFramework\SeleniumTestsProject\obj\Debug\SeleniumTestsProject.csprojResolveAssemblyReference.cache
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsFramework\SeleniumTestsProject\obj\Debug\SeleniumTestsProject.dll
+D:\Len4ik\Google Drive\_Selenium\SeleniumTestsFramework\SeleniumTestsProject\obj\Debug\SeleniumTestsProject.pdb
